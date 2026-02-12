@@ -42,7 +42,6 @@ Scroll down and replace:
 - `YOURWIFINAMEHERE`
 
 If this step is skipped, Wi-Fi will **not work in recovery**.
-
 You can also use the **itlwmPass.py** script inside the repo to edit the kext file for you. (Windows/Linux only)
 
 macOS Tahoe can have graphical bugs due to NootedRed drivers being experimental. For best experience use macOS Tahoe **26.0.1**.
@@ -65,12 +64,12 @@ For best results, build your own **UTBMap**.
 - Chosen for better stability and compatibility across macOS versions
 
 After installation:
-- Download **HeliPort 2.0.0 beta** from GitHub
+- Download **HeliPort 2.0.0 beta** from GitHub (if using Tahoe)
 - Install it and optionally enable auto-launch at login
 
 ---
 
-### Audio on macOS 26+
+### Audio on Tahoe
 
 - Apple removed **AppleHDA.kext** starting with **macOS 26.0 Beta 2**
 - To restore audio, use **MyKextInstaller** to reinstall AppleHDA
@@ -93,10 +92,8 @@ Everything expected from a daily-driver laptop:
 
 ## macOS Installation
 
-Create your own macOS installer using:
-
-macrecovery.py
-
+Create your own macOS installer using macrecovery.py, put the *com.apple.recovery.boot* folder inside of the root of the flash drive and put the EFI folder as well.
+Boot into the flash drive and select the yellow gear icon.
 
 ---
 
@@ -125,8 +122,6 @@ macrecovery.py
 
 ---
 
-## Disclaimer
-
-This EFI is provided **as-is**.  
-Results may vary depending on hardware revisions, BIOS versions, and macOS updates.  
-Always keep backups before updating macOS or OpenCore.
+> [!CAUTION]
+> The results may vary depending on device. The EFI is provided as is.
+> You are downloading a **PRE-MADE** EFI folder for said device. 99% of Hackintosh communities do not support users with pre-baked EFI's. You are now on your own.
