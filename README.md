@@ -13,7 +13,7 @@
 
 </td>
 <td align="right" width="33%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/AMD_Ryzen_%28Zen%29_logo.svg" style="max-width:100%; height:auto;" />
+<img src="https://www.svgrepo.com/show/303321/ryzen-logo.svg" style="max-width:100%; height:auto;" />
 </td>
 </tr>
 </table>
