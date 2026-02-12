@@ -213,7 +213,7 @@ Everything expected from a daily‑driver laptop:
 
 <div align="center">
 
-**ThinkPad‑AMD Project**
+**ThinkDifferent Inc.**
 
 </div>
 
