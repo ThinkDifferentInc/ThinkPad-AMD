@@ -3,7 +3,7 @@
 <table width="100%">
 <tr>
 <td align="left" width="33%">
-<img src="https://github.com/ThinkDifferentInc/ThinkPad-AMD/blob/main/td.png?raw=true" style="max-width:100%; height:auto;" />
+<img src="https://github.com/ThinkDifferentInc/ThinkPad-AMD/blob/main/td2.png?raw=true" style="max-width:100%; height:auto;" />
 </td>
 <td align="center" width="34%">
 
