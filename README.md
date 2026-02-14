@@ -91,7 +91,7 @@ Alternatively:
 > [!IMPORTANT]
 > NootedRed drivers are still experimental.
 
-- Graphical glitches may occur
+- Graphical glitches may occur (Only on Tahoe, other versions work flawlessly)
 - Best experience: **macOS 26.0.1**
 
 ---
