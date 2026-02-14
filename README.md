@@ -42,9 +42,9 @@ On:
 |------------|---------------|
 | **Model** | Lenovo ThinkPad L15 Gen 1 (AMD) |
 | **CPU** | AMD Ryzen 5 PRO 4650U |
-| **GPU** | AMD Radeon Graphics (iGPU) |
+| **GPU** | AMD Radeon RX Vega 6 (Renoir) |
 | **RAM** | 16GB DDR4 |
-| **Storage** | 2TB NVMe SSD |
+| **Storage** | 2TB KINGSTON NVMe SSD |
 | **Wi‑Fi** | Intel Dual Band Wireless‑AC 7265 |
 
 ---
