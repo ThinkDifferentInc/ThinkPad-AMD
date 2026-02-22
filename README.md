@@ -92,6 +92,8 @@ Alternatively:
 > This method requires AirportItlwm Ventura version and OCLP. This works across Ventura -> Tahoe.
 > <br>
 > You will also need to put "amfi_get_out_of_my_way" inside boot-args to avoid a kernel panic.
+> <br>
+> For Ventura up to Sequoia, use the official OCLP. For Tahoe use lzhoang's OCLP3 Beta
 
 You can follow this guide to patch the native Wi-Fi menu.
 
