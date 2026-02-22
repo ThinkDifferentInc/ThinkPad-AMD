@@ -103,10 +103,7 @@ You can follow this guide to patch the native Wi-Fi menu.
 
 ## macOS Tahoe Notes
 
-> [!IMPORTANT]
-> NootedRed drivers are still experimental.
-
-- Graphical glitches may occur (Only on Tahoe, other versions work flawlessly)
+- Graphical glitches may occur on **26.1** upwards.
 - Best experience: **macOS 26.0.1**
 
 ---
