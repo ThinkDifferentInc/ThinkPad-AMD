@@ -86,6 +86,17 @@ Alternatively:
 
 ---
 
+## Native Wi-Fi with AirportItlwm
+
+> [!TIP]
+> This method requires AirportItlwm Ventura version and OCLP. This works across Ventura -> Tahoe.
+
+You can follow this guide to patch the native Wi-Fi menu.
+
+[AirportItlwm Patching Guide](https://www.reddit.com/r/hackintosh/comments/1igcc2t/tutorial_how_to_enable_native_macos_wifi_for/)
+
+---
+
 ## macOS Tahoe Notes
 
 > [!IMPORTANT]
