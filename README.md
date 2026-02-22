@@ -97,7 +97,8 @@ Alternatively:
 > <br>
 > For Ventura up to Sequoia, use the **official OCLP**. For Tahoe use **lzhoang's OCLP3 Beta.**
 
-You can follow this guide to patch the native Wi-Fi menu.
+_TL;DR_
+You can get native Wi-Fi working with a Intel card by spoofing it as a Broadcom one. Need SIP to be partially disabled.
 
 [AirportItlwm Patching Guide](https://github.com/randomappleboi/Native-Wifi-for-Hackintoshes-with-Intel-Wireless-cards-on-macOS-sequoia)
 
