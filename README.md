@@ -95,7 +95,7 @@ Alternatively:
 
 You can follow this guide to patch the native Wi-Fi menu.
 
-[AirportItlwm Patching Guide](https://www.reddit.com/r/hackintosh/comments/1igcc2t/tutorial_how_to_enable_native_macos_wifi_for/)
+[AirportItlwm Patching Guide](https://github.com/randomappleboi/Native-Wifi-for-Hackintoshes-with-Intel-Wireless-cards-on-macOS-sequoia)
 
 ---
 
