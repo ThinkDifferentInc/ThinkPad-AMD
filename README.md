@@ -143,7 +143,7 @@ After installation:
 
 ---
 
-## Audio on macOS Tahoe (26)
+## Audio on Tahoe
 
 > [!CAUTION]
 > Apple removed **AppleHDA.kext** starting with macOS 26.0 Beta 2.
@@ -152,9 +152,6 @@ To restore audio:
 
 - Use **MyKextInstaller**
 - Reinstall **AppleHDA**
-
-> [!WARNING]
-> **OCLP3 Beta does NOT work** for this.
 
 ---
 
@@ -197,7 +194,7 @@ Everything expected from a daily‑driver laptop:
 - Boot Display Device → **ThinkPad LCD**
 - Shared Display Priority → **HDMI**
 - Boot Time Extension → **Disabled**
-- Increase Framebuffer Size → **1GB recommended (from 512MB)**
+- Increase Framebuffer Size → **1GB recommended, 2GB for extra performance (from 512MB)**
 
 ---
 
@@ -216,11 +213,11 @@ Everything expected from a daily‑driver laptop:
 
 > [!CAUTION]
 > Results may vary depending on hardware configuration.
->
+> <br>
 > This is a **PRE‑MADE EFI folder**.
->
+> <br>
 > 99% of Hackintosh communities do not support pre-built EFI users.
->
+> <br>
 > You are using this at your own risk.
 
 ---
