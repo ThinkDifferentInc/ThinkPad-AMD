@@ -81,7 +81,7 @@ Replace:
 
 Alternatively:
 
-- Use **itlwmPass.py** (included in repo)
+- Use **Itlwmjector.py** (included in repo)
 - Works on **Windows/Linux only**
 
 ---
