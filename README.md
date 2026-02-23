@@ -81,7 +81,7 @@ Replace:
 
 Alternatively:
 
-- Use **Itlwmjector.py** (included in repo)
+- Use **Itlwmjector.py** (on our main page)
 - Works on **Windows/Linux only**
 
 ---
