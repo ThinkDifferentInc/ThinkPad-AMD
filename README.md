@@ -152,8 +152,8 @@ After installation:
 To restore audio:
 
 - Use **MyKextInstaller**
-- INSTALL A **LOWER KDK VERSION THATS NOT 26.3! Install 26.0 if available**
-- Not doing so might result in a corrupted macOS install due to a kernel mismatch.
+- INSTALL A **LOWER KDK VERSION THATS NOT 26.3! Install 26.0 version of the KDK**
+- Not doing so might result in a corrupted macOS install.
 - Reinstall **AppleHDA**
 
 ---
